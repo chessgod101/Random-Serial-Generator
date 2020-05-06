@@ -1,4 +1,4 @@
-# Random-Serial-Generator1
+# Random Serial Generator
 Generates Random Serials
 
 Random Serial Generator 1.0 is a simple application that allows you to generate a random serial number for testing license algorithms or implementing them into your own application.
